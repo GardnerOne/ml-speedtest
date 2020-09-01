@@ -1,2 +1,2 @@
 # ML Speedtest
-Create, analyse and visualise internet speeds
+Check, analyse and visualise internet speeds
